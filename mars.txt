@@ -1,1 +1,2 @@
 First notes about mars for the git repository.
+This is the second version
